@@ -1,0 +1,13 @@
+# ninja log v5
+0	961	7812828201242444	CMakeFiles/sysprog_lab2.dir/main.cpp.obj	369f981e9e820631
+7	1188	7812828203541803	CMakeFiles/sysprog_lab2.dir/lexer.cpp.obj	768e5de7969a2af3
+1188	1657	7812828208169079	sysprog_lab2.exe	62079ff8ebaa16fd
+10	711	7812829255829796	CMakeFiles/sysprog_lab2.dir/main.cpp.obj	369f981e9e820631
+4	877	7812829257494224	CMakeFiles/sysprog_lab2.dir/lexer.cpp.obj	768e5de7969a2af3
+878	1067	7812829259341797	sysprog_lab2.exe	62079ff8ebaa16fd
+3	710	7812829408397584	CMakeFiles/sysprog_lab2.dir/main.cpp.obj	369f981e9e820631
+9	893	7812829410236506	CMakeFiles/sysprog_lab2.dir/lexer.cpp.obj	768e5de7969a2af3
+897	1064	7812829411915377	sysprog_lab2.exe	62079ff8ebaa16fd
+10	665	7812832374957578	CMakeFiles/sysprog_lab2.dir/main.cpp.obj	369f981e9e820631
+5	816	7812832376436896	CMakeFiles/sysprog_lab2.dir/lexer.cpp.obj	768e5de7969a2af3
+817	983	7812832378079606	sysprog_lab2.exe	62079ff8ebaa16fd
